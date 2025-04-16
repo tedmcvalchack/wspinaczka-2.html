@@ -1,0 +1,41 @@
+.dyscypliny {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    font-size: 50px;
+    
+    
+}
+
+.dyscypliny:hover {
+    background-color:purple;
+    font-size: 50px;
+
+}
+
+.powrot {
+    height: 200px;
+    width: 200px;
+    font-size: 25px;
+    background-color: red;
+
+}
+
+.powrot:hover {
+    background-color: green;
+}
+
+.inne-przyciski {
+    height: 150px;
+    width: 500px;
+    font-size: 50px;
+    background-color: yellow;
+}
+
+.inne-przyciski:hover {
+    background-color: orange;
+}
+
+body{
+    background-color: greenyellow;
+}
